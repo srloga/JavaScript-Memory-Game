@@ -1,6 +1,6 @@
 # Memory Game - Vanilla JavaScript
 
-Projeto tutoriado pela Code Sketch desenvolvido em "Vanilla JavaScript", onde o objetivo foi aprender o JavaScript puro em um projeto simples, prático e rápido. Sem frameworks, bibliotecas ou jQuery.
+Projeto tutoreado pela Code Sketch desenvolvido em "Vanilla JavaScript", onde o objetivo foi aprender o JavaScript puro em um projeto simples, prático e rápido. Sem frameworks, bibliotecas ou jQuery.
 
 Temas abordados neste projeto:
 
